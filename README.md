@@ -1,6 +1,4 @@
 # Reading-List
-This is a track of books I have read.
-
 *I love to share books I’m reading to keep me motivated. Below are the books I’ve read. Those I’ve especially loved are marked with an asterisk.*
 
 ## 2020
@@ -14,6 +12,8 @@ This is a track of books I have read.
 7. **The Big Picture, [USA]Sean Carroll**  *[currently reading ]*
 8. **The News : A User’s Manual,  [Switzerland]Alain de Botton**\*
 9. **How to Take Smart Notes, [Germany]Sönke Ahrens****[currently reading ]*
+10. **事实, [瑞典]汉斯·罗斯林, 欧拉·罗斯林&安娜·罗斯林·罗朗德**\*
+11. **深度工作：如何有效使用每一点脑力, [美]卡尔·纽波特**
 
 ## 2019
 
