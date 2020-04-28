@@ -6,15 +6,16 @@
 1. **香农传, [美国]吉米·索尼&罗伯·古德曼** 
 2. **三体, [中国]刘慈欣**
 3. **什么是物理学, [日本]朝永振一郎**\*
-4. **薛兆丰经济学讲义, [中国]薛兆丰***[currently reading ]*
-5. **The Sacred Routes of Uyghur History, [USA]Rian Thum**\**[currently reading ]*
+4. **薛兆丰经济学讲义, [中国]薛兆丰***
+5. **The Sacred Routes of Uyghur History, [USA]Rian Thum**\*
 6. **Stealth War,  [USA]Robert Spalding**
-7. **The Big Picture, [USA]Sean Carroll**  *[currently reading ]*
+7. **The Big Picture, [USA]Sean Carroll** 
 8. **The News : A User’s Manual,  [Switzerland]Alain de Botton**\*
-9. **How to Take Smart Notes, [Germany]Sönke Ahrens****[currently reading ]*
+9. **How to Take Smart Notes, [Germany]Sönke Ahrens***
 10. **事实, [瑞典]汉斯·罗斯林, 欧拉·罗斯林&安娜·罗斯林·罗朗德**\*
 11. **深度工作：如何有效使用每一点脑力, [美国]卡尔·纽波特**
-12. **以自由之名：民主帝国的战争、谎言与杀戮, [美国]诺姆·乔姆斯基, 安德烈·弗尔切克**
+12. **以自由之名, [美国]诺姆·乔姆斯基, 安德烈·弗尔切克**
+13. **有话说, [中国]崔永元**
 
 ## 2019
 
