@@ -13,7 +13,8 @@
 8. **The News : A User’s Manual,  [Switzerland]Alain de Botton**\*
 9. **How to Take Smart Notes, [Germany]Sönke Ahrens****[currently reading ]*
 10. **事实, [瑞典]汉斯·罗斯林, 欧拉·罗斯林&安娜·罗斯林·罗朗德**\*
-11. **深度工作：如何有效使用每一点脑力, [美]卡尔·纽波特**
+11. **深度工作：如何有效使用每一点脑力, [美国]卡尔·纽波特**
+12. **以自由之名：民主帝国的战争、谎言与杀戮, [美国]诺姆·乔姆斯基, 安德烈·弗尔切克**
 
 ## 2019
 
