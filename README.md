@@ -1,4 +1,3 @@
-# Reading-List
 *I love to share books I’m reading to keep me motivated. Below are the books I’ve read. Those I’ve especially loved are marked with an asterisk.*
 
 ## 2020
