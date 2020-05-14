@@ -17,7 +17,7 @@
 13. **有话说, [中国] 崔永元**
 14. **特朗普自传: 谈判的艺术, [美国] 唐纳德·特朗普, 托尼·施瓦茨**
 15. **金钱不能买什么：金钱与公正的正面交锋, [美国]迈克尔·桑德尔**\*
-16. The Girl Who Read the Stars, [USA] Skylar Dorset
+16. **The Girl Who Read the Stars, [USA] Skylar Dorset**
 
 ## 2019
 
@@ -98,7 +98,7 @@
 23. **尼采生存哲学, [德国] 弗里德里希·尼采**
 24. **快乐的科学, [德国] 弗里德里希·尼采**
 25. **自私的基因, [英国] 里查德.道金斯**
-26. **The Fabric of the Cosmos, [US] Brian Greene**
+26. **The Fabric of the Cosmos, [USA] Brian Greene**
 27. **炼金术士, [巴西] 保罗·科埃略**
 28. **迷人的科学风采 : 费恩曼传, [美国] 约翰・格里宾&玛丽・格里宾**
 29. **你干吗在乎别人怎么想, [美国] R.P.费曼**
