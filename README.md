@@ -5,10 +5,10 @@
 1. **香农传, [美国]吉米·索尼&罗伯·古德曼** 
 2. **三体, [中国]刘慈欣**
 3. **什么是物理学, [日本] 朝永振一郎**\*
-4. **薛兆丰经济学讲义, [中国] 薛兆丰***
-5. **The Sacred Routes of Uyghur History, [USA] Rian Thum**\*
+4. **薛兆丰经济学讲义, [中国] 薛兆丰***（*reading*）
+5. **The Sacred Routes of Uyghur History, [USA] Rian Thum**\*（*reading*）
 6. **Stealth War,  [USA] Robert Spalding**
-7. **The Big Picture, [USA] Sean Carroll** 
+7. **The Big Picture, [USA] Sean Carroll** （*reading*）
 8. **The News : A User’s Manual,  [Switzerland] Alain de Botton**\*
 9. **How to Take Smart Notes, [Germany] Sönke Ahrens***
 10. **事实, [瑞典] 汉斯·罗斯林, 欧拉·罗斯林&安娜·罗斯林·罗朗德**\*
@@ -18,7 +18,8 @@
 14. **特朗普自传: 谈判的艺术, [美国] 唐纳德·特朗普, 托尼·施瓦茨**
 15. **金钱不能买什么：金钱与公正的正面交锋, [美国]迈克尔·桑德尔**\*
 16. **The Girl Who Read the Stars, [USA] Skylar Dorset**
-17. **硅谷钢铁侠：埃隆·马斯克的冒险人生, [美]阿什利·万斯**
+17. **硅谷钢铁侠：埃隆·马斯克的冒险人生, [美国]阿什利·万斯**
+18. **生命的未来：从双螺旋到合成生命,[美国]克雷格·文特尔**
 
 ## 2019
 
