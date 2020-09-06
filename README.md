@@ -5,10 +5,10 @@
 1. **香农传, [美国]吉米·索尼&罗伯·古德曼** 
 2. **三体, [中国]刘慈欣**
 3. **什么是物理学, [日本] 朝永振一郎**\*
-4. **薛兆丰经济学讲义, [中国] 薛兆丰***
-5. **The Sacred Routes of Uyghur History, [USA] Rian Thum**\*
+4. **薛兆丰经济学讲义, [中国] 薛兆丰***（*reading*）
+5. **The Sacred Routes of Uyghur History, [USA] Rian Thum**\*（*reading*）
 6. **Stealth War,  [USA] Robert Spalding**
-7. **The Big Picture, [USA] Sean Carroll** 
+7. **The Big Picture, [USA] Sean Carroll** （*reading*）
 8. **The News : A User’s Manual,  [Switzerland] Alain de Botton**\*
 9. **How to Take Smart Notes, [Germany] Sönke Ahrens***
 10. **事实, [瑞典] 汉斯·罗斯林, 欧拉·罗斯林&安娜·罗斯林·罗朗德**\*
@@ -22,6 +22,10 @@
 18. **布雷顿森林货币战：美元如何统治世界, [美国] 本·斯泰尔**
 19. **运动改造大脑, [美国] 约翰•瑞迪, 埃里克•哈格曼**
 20. **反抗者, [法国] 阿尔贝·加缪**
+15. **金钱不能买什么：金钱与公正的正面交锋, [美国]迈克尔·桑德尔**\*
+16. **The Girl Who Read the Stars, [USA] Skylar Dorset**
+17. **硅谷钢铁侠：埃隆·马斯克的冒险人生, [美国]阿什利·万斯**
+18. **生命的未来：从双螺旋到合成生命,[美国]克雷格·文特尔**
 
 ## 2019
 
@@ -103,7 +107,7 @@
 23. **尼采生存哲学, [德国] 弗里德里希·尼采**
 24. **快乐的科学, [德国] 弗里德里希·尼采**
 25. **自私的基因, [英国] 里查德.道金斯**
-26. **The Fabric of the Cosmos, [US] Brian Greene**
+26. **The Fabric of the Cosmos, [USA] Brian Greene**
 27. **炼金术士, [巴西] 保罗·科埃略**
 28. **迷人的科学风采 : 费恩曼传, [美国] 约翰・格里宾&玛丽・格里宾**
 29. **你干吗在乎别人怎么想, [美国] R.P.费曼**
