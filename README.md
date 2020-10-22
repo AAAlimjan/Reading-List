@@ -7,7 +7,6 @@
 3. **什么是物理学, [日本] 朝永振一郎**\*
 4. **薛兆丰经济学讲义, [中国] 薛兆丰***（*reading*）
 5. **The Sacred Routes of Uyghur History, [USA] Rian Thum**\*（*reading*）
-6. **Stealth War,  [USA] Robert Spalding**
 7. **The Big Picture, [USA] Sean Carroll** （*reading*）
 8. **The News : A User’s Manual,  [Switzerland] Alain de Botton**\*
 9. **How to Take Smart Notes, [Germany] Sönke Ahrens***
@@ -26,6 +25,8 @@
 16. **The Girl Who Read the Stars, [USA] Skylar Dorset**
 17. **硅谷钢铁侠：埃隆·马斯克的冒险人生, [美国]阿什利·万斯**
 18. **生命的未来：从双螺旋到合成生命,[美国]克雷格·文特尔**
+24. **改变未来的九大算法, [美国]约翰·麦考密克**
+25. **The Letters of Richard P. Feynman,[USA] Richard P. Feynman, Timothy Ferris ect**
 
 ## 2019
 
