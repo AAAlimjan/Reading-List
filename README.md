@@ -1,5 +1,10 @@
 *I love to share books I’m reading to keep me motivated. Below are the books I’ve read. Those I’ve especially loved are marked with an asterisk.*
 
+## 2021
+
+1. **世界前沿技术报告2020**
+2. **工匠精神：缔造伟大传奇的重要力量，[美]亚力克·福奇**
+
 ## 2020
 
 1. **香农传, [美国]吉米·索尼&罗伯·古德曼** 
