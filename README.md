@@ -1,5 +1,9 @@
 *I love to share books I’m reading to keep myself motivated. Below are the books I’ve read. Those I’ve specially loved are marked with an asterisk.* 
 
+## 2022
+
+1. **国家的启蒙：日本帝国崛起之源,[中国]马国川**
+
 ## 2021
 
 1. **世界前沿技术报告2020**
